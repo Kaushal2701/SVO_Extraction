@@ -1,6 +1,5 @@
 # SVO_Extraction
 The output of the programme is
-The Output is :-
 
 ------------------------------ 0 ------------------------------
 
