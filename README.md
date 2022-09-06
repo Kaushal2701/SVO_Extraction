@@ -1,18 +1,6 @@
 # SVO_Extraction
 The output of the programme is
 
------------------------------- 0 ------------------------------
-
-Enter your question
-
-All the question words in the sentence are
-
-All the nouns in the sentence are
-
-question
-
-All the relations in the sentence are
-
 ------------------------------ 1 ------------------------------
 
 When is Founder's day
